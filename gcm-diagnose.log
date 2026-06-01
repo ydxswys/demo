@@ -1,0 +1,237 @@
+﻿Diagnose log at 2026-06-01T12:08:26Z
+
+AppPath: D:\software\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\software\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+PROCESSOR_ARCHITEW6432=AMD64
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-VKAOJ3K
+GIT_TRACE2_PARENT_SID=8b01ea88-6eec-44a8-8cae-5ab5b6f37527
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ZSH_TMUX_AUTOSTART=false
+OneDrive=C:\Users\feng\OneDrive
+CODEX_THREAD_ID=019e82e6-e943-7352-8ce0-2096e2ded8ed
+LOG_FORMAT=json
+HOMEPATH=\Users\feng
+GIT_CONFIG_KEY_0=safe.directory
+CODEX_SHELL=1
+MOZ_PLUGIN_PATH=E:\software\fox\Foxit PDF Reader\plugins\
+PROCESSOR_REVISION=6102
+USERDOMAIN=DESKTOP-VKAOJ3K
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+SystemDrive=C:
+TMP=C:\Users\feng\AppData\Local\Temp
+TEMP=C:\Users\feng\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\feng\AppData\Local
+PUBLIC=C:\Users\Public
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD
+LESS=
+Path=C:\Users\feng\.codex\tmp\arg0\codex-arg06jJmvB;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;D:\software\Docker\docker\resources\bin;D:\software\platform-tools-latest-windows\platform-tools;D:\software\Git\cmd;D:\software\Git\bin;D:\software\anaconda3\Library\bin;D:\software\anaconda3\Scripts;D:\software\anaconda3;D:\software\anaconda3\condabin;E:\software\mingw64\bin;C:\Program Files (x86)\ZeroTier\One\;C:\Users\feng\AppData\Roaming\npm\;D:\software\nodejs\;d:\software\Trae\bin;C:\Users\feng\.local\bin;C:\Users\feng\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;D:\software\Microsoft VS Code\bin;C:\Users\feng\AppData\Local\PowerToys\DSCModules\;E:\software\software\cursor\resources\app\bin;C:\Users\feng\AppData\Local\OpenAI\Codex\bin\ada252862d154cdd;C:\Program Files\WindowsApps\OpenAI.Codex_26.527.3686.0_x64__2p2nqsd0c76g0\app\resources
+GIT_CONFIG_VALUE_0=D:\code\codex\demo
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=32
+PATH=C:\Users\feng\.codex\tmp\arg0\codex-arg06jJmvB;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files\dotnet\;D:\software\Docker\docker\resources\bin;D:\software\platform-tools-latest-windows\platform-tools;D:\software\Git\cmd;D:\software\Git\bin;D:\software\anaconda3\Library\bin;D:\software\anaconda3\Scripts;D:\software\anaconda3;D:\software\anaconda3\condabin;E:\software\mingw64\bin;C:\Program Files (x86)\ZeroTier\One\;C:\Users\feng\AppData\Roaming\npm\;D:\software\nodejs\;d:\software\Trae\bin;C:\Users\feng\.local\bin;C:\Users\feng\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;D:\software\Microsoft VS Code\bin;C:\Users\feng\AppData\Local\PowerToys\DSCModules\;E:\software\software\cursor\resources\app\bin;C:\Users\feng\AppData\Local\OpenAI\Codex\bin\ada252862d154cdd;C:\Program Files\WindowsApps\OpenAI.Codex_26.527.3686.0_x64__2p2nqsd0c76g0\app\resources
+GIT_CONFIG_COUNT=1
+ProgramFiles(x86)=C:\Program Files (x86)
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CODEX_SANDBOX_NETWORK_DISABLED=1
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+GIT_PAGER=more.com
+ProgramFiles=C:\Program Files (x86)
+STM32_PRG_PATH=D:\software\stm32programmer\bin
+SystemRoot=C:\windows
+SHELL=C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=Codex Desktop
+CommonProgramW6432=C:\Program Files\Common Files
+DISABLE_AUTO_UPDATE=true
+LOGONSERVER=\\DESKTOP-VKAOJ3K
+ZSH_TMUX_AUTOSTARTED=true
+USERPROFILE=C:\Users\feng
+MOSQUITTO_DIR=D:\software\mosquitto
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-VKAOJ3K
+APPDATA=C:\Users\feng\AppData\Roaming
+HOMEDRIVE=C:
+RUST_LOG=warn
+PSModulePath=C:\Users\feng\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+USERNAME=feng
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\windows\system32\cmd.exe
+PAGER=more.com
+windir=C:\windows
+OneDriveConsumer=C:\Users\feng\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\feng\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\feng\AppData\Local\Temp\124c4d71889d0577a753585e'... OK
+Reading from temporary file 'C:\Users\feng\AppData\Local\Temp\124c4d71889d0577a753585e'... OK
+Deleting temporary file 'C:\Users\feng\AppData\Local\Temp\124c4d71889d0577a753585e'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\CodexSandboxOffline
+UserDataDirectoryPath: C:\Users\CodexSandboxOffline\.gcm
+GetCurrentDirectory(): D:\code\codex\demo
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 以一种访问权限不允许的方式做了一个访问套接字的尝试。 172.66.147.243:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... warning: HEAD request failed
+Sending HEAD request to http://httpforever.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.50.0.windows.2'
+Locating current repository...Git repository at 'D:/code/codex/demo/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/software/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/software/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/software/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/software/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/software/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/software/Git/etc/gitconfig	http.sslbackend=schannel
+file:D:/software/Git/etc/gitconfig	core.autocrlf=true
+file:D:/software/Git/etc/gitconfig	core.fscache=true
+file:D:/software/Git/etc/gitconfig	core.symlinks=false
+file:D:/software/Git/etc/gitconfig	pull.rebase=false
+file:D:/software/Git/etc/gitconfig	credential.helper=manager
+file:D:/software/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/software/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/feng/.gitconfig	url.https://github.com/.insteadof=git@github.com:
+file:C:/Users/feng/.gitconfig	safe.directory=*
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/ydxswys/demo.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	user.name=Codex
+file:.git/config	user.email=codex@openai.com
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+command line:	safe.directory=D:\code\codex\demo
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: False
+Exception:
+System.UnauthorizedAccessException: 对路径“C:\Users\feng\AppData\Local\.IdentityService”的访问被拒绝。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 Microsoft.Identity.Client.Extensions.Msal.CrossPlatLock..ctor(String lockfilePath, Int32 lockFileRetryDelay, Int32 lockFileRetryCount)
+   在 Microsoft.Identity.Client.Extensions.Msal.MsalCacheHelper.CreateCrossPlatLock(StorageCreationProperties storageCreationProperties)
+   在 Microsoft.Identity.Client.Extensions.Msal.MsalCacheHelper.<CreateAsync>d__23.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.MicrosoftAuthenticationDiagnostic.<RunInternalAsync>d__1.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\feng\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\feng\AppData\Local\.IdentityService\msal.cache
+Creating cache helper...
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 以一种访问权限不允许的方式做了一个访问套接字的尝试。 20.205.243.168:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitHub.GitHubRestApi.<GetMetaInfoAsync>d__5.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitHub.Diagnostics.GitHubApiDiagnostic.<RunInternalAsync>d__2.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint...
